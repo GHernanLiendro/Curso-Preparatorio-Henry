@@ -21,3 +21,4 @@ var sinC = sinB.filter(letra => letra != 'c');
 var stringCondicionado = sinC.join('');
 console.log(stringCondicionado);
 
+var suma = [];
